@@ -31,7 +31,7 @@ The following **additional** features are implemented:
     <a href="https://www.loom.com/share/93d267854e1441298d3f659639b30d49">
     </a>
     <a href="https://www.loom.com/share/93d267854e1441298d3f659639b30d49">
-      <img style="max-width:300px;" src="null">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/93d267854e1441298d3f659639b30d49-with-play.gif">
     </a>
   </div>
 
